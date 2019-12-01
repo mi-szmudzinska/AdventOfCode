@@ -1,5 +1,5 @@
 
-with open(__file__.rstrip("sol.py") + "input.txt") as f:
+with open(__file__.rstrip("Day1.py") + "input.txt") as f:
     total1 = 0
     total2 = 0
 
